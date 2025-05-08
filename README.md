@@ -20,3 +20,13 @@ Run the `FD.py` script to start real-time emotion recognition via webcam.
 - TensorFlow & Keras
 - NumPy
 - CNN (Convolutional Neural Network)
+
+
+
+## How to Run
+
+1. Clone the repository.
+2. Ensure your dataset is organized by emotion classes under a directory (`Angry`, `Happy`, etc.).
+3. Train the model:
+   ```bash
+   python FD_accuracy.py
